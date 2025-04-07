@@ -1,2 +1,3 @@
 climate_data/
 *.csv
+*.py
